@@ -1,16 +1,31 @@
-### Hi there 👋
+<p align="center">
+  <div style="display: flex; max-width: 300px; margin: 0 auto;">
+    <img src="assets/markury-logo-sage.png" alt="Markury Logo" style="max-width: 100%;" />
+  </div>
+</p>
 
-<!--
-**markuryy/markuryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mark 👋
 
-Here are some ideas to get you started:
+Maker of things. Breaker of other things. Occasional fixer of the things I break.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+I tinker with whatever catches my interest:
+
+- Web experiments that occasionally work
+- 3D printing objects of questionable utility
+- Obscure applications of computer vision
+- Making tutorials when I accidentally learn something
+
+## Tech I Use
+
+```
+Some web stuff (I like js frameworks)
+Just barely enough Python/Rust to be dangerous
+Whatever helps make the computer do the thing
+```
+
+## Find Me
+
+- Sometimes coherent at [markury.dev](https://markury.dev)
+- Email if you must: hello@markury.dev
