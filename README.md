@@ -1,31 +1,14 @@
 <p align="center">
-  <div style="display: flex; max-width: 300px; margin: 0 auto;">
-    <img src="assets/markury-logo-sage.png" alt="Markury Logo" style="max-width: 100%;" />
-  </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/MarkuryWhite.svg"/>
+  <img alt="Markury Logo" src="assets/MarkuryBlack.svg" width="100"/>
+</picture>
 </p>
 
-# Hi, I'm Mark 👋
-
-Maker of things. Breaker of other things. Occasional fixer of the things I break.
-
-## What I Do
-
-I tinker with whatever catches my interest:
-
-- Web experiments that occasionally work
-- 3D printing objects of questionable utility
-- Obscure applications of computer vision
-- Making tutorials when I accidentally learn something
-
-## Tech I Use
-
-```
-Some web stuff (I like js frameworks)
-Just barely enough Python/Rust to be dangerous
-Whatever helps make the computer do the thing
-```
-
-## Find Me
-
-- Sometimes coherent at [markury.dev](https://markury.dev)
-- Email if you must: hello@markury.dev
+<p align="center">
+<b>Hi, I'm Mark 👋</b>
+<br><br>
+Maker of things. Breaker of other things.
+<br><br>
+<a href="https://markury.dev">markury.dev</a>
+</p>
